@@ -1,0 +1,5 @@
+IP generated the most failed SSH logins: 203.0.113.10
+Most frequently targeted account: admin
+Number of source addresses present in the IOC list: 3
+IP generated the most web requests: 203.0.113.10
+There are signs of automated web scanning: number of fail authorisation attempts from the same IPs
